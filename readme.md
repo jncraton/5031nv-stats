@@ -1,4 +1,4 @@
-Wifi Stats
-==========
+5031NV Stats
+============
 
-Prints wifi usage stats by host from the local router.
+Prints wifi usage stats by host from the local 5031NV router.
